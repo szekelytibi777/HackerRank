@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://hr-testcases-us-east-1.s3.amazonaws.com/20645/input01.txt?AWSAccessKeyId=AKIAR6O7GJNX5DNFO3PV&Expires=1676138838&Signature=WOvl8%2FPczvTnkZabUL19t8sAKA0%3D&response-content-type=text%2Fplain
